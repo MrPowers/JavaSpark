@@ -1,10 +1,13 @@
+package mrpowers.javaspark;
+
+import mrpowers.javaspark.SparkSessionTestWrapper;
+import mrpowers.javaspark.Transformations;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 import java.util.List;
 import java.util.ArrayList;
 import org.apache.spark.api.java.JavaRDD;
-import org.apache.spark.sql.SparkSession;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;

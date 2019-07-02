@@ -1,3 +1,5 @@
+package mrpowers.javaspark;
+
 import org.apache.spark.sql.SparkSession;
 
 public interface SparkSessionTestWrapper {

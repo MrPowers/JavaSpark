@@ -1,3 +1,6 @@
+package mrpowers.javaspark;
+
+import mrpowers.javaspark.MyUnit;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

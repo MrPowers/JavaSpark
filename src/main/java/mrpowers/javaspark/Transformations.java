@@ -1,3 +1,5 @@
+package mrpowers.javaspark;
+
 import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;

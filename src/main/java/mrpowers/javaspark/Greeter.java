@@ -1,3 +1,5 @@
+package mrpowers.javaspark;
+
 public class Greeter {
 
     public static void main() {
